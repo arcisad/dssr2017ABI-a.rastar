@@ -9,4 +9,4 @@ We code in Fortran language and all our post processing is carried out in other 
 
 Please refer to this [link](https://github.com/arcisad/Automake) for an example. 
 
-My goal for this project is to translate as much of the code as I can from old Fortran to new programming languages such as Python.
+My goal for this project is to translate as much of the code as I can from old Fortran to new programming languages such as C, C#, Java, Python, Preferably for visual outputs. The application is most efficient if it's multiplatform.  

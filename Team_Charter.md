@@ -28,6 +28,8 @@ We work beased on mutual respect and sharing ideas. All tam membrs should have t
 through regular biweekly and some other intermittent meetings. We use online platforms such as Asana to manage our projects and tasks where we could communicate
 and provide our opinions and feedback. We use SVN and more recently Git for our version controlling. 
 
+The ownership of the intellectual property generated as the outcome of the projects remains in hands of the funding agency and the principal investigator. Any new outcome resulted from individual creativity which does not fall into the scope of the project, belongs to the creator. 
+
 ## Project team
 
 The project team comprises supervisors, avisors and students. Supervisors are responsible for managing the project and guiding the students. 

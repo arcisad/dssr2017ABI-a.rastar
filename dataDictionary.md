@@ -1,1 +1,1 @@
-Fuel energy in megajoules
+Fuel energy in megajoules (Mj)

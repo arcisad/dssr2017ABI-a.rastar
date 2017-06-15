@@ -5,10 +5,10 @@ Asthma is a respiratory system disorder which involves the whole respiratory tra
 
 In this project, I am coupling three different models such that they could interact in real time. The final goal of the project is to find a novel biomarkers which could tackle the current hassles in distinguishing between different types of Asthma. We believe that the novel biomarker is going to efficiently categorise different phenotypes of asthma and could act as the perfect replacement for the current inefficient gold standard.
 
-We code in Fortran language and all our post processing is carried out in other languages such as MATLAB and Python. As part of the debugging and compilation tasks, I have created a c++ file which could scan through all the source codes and create a makefile automatically by ordering all the file names required for compilation.
+Our main code is in Fortran language, however most of my post processing is carried out in other languages such as MATLAB and Python. Forexample, as part of the debugging and compilation tasks, I have created a c++ file which could scan through all the source codes and create a makefile automatically by ordering all the file names required for compilation.
 
 Please refer to this [link](https://github.com/arcisad/Automake) for an example. 
 
-My goal for this project is to translate as much of the code as I can from old Fortran to new programming languages such as C, C#, Java, Python, Preferably for visual outputs. The application is most efficient if it's multiplatform.  
+My goal for this project is to translate as much of the code as I can from old Fortran to new programming languages (specifically python for this project) and create a user interface to achieve a template for a potential user-friendly standalone application. The application is most efficient if it's multiplatform.  
 
 Flowchart [link](https://github.com/arcisad/dssr2017ABI-a.rastar/blob/master/Digital.png).
